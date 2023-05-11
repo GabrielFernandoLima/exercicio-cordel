@@ -1,3 +1,3 @@
 Este projeto foi todo montado pelo #Cursoemvideo, 
-mas este index, foi totalmente feito por mim antes de ser 
+mas este index, foi feito por mim a fins de aprendizado antes de ser 
 revisado pelo professor Gustavo Guanabara.
